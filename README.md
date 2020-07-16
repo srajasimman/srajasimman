@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajasimman</h1>
 <h3 align="center">A passionate system admin from India</h3>
-<h3 align="center">:black_joker: SysAdmin :male-technologist::skin-tone-3: TechLover :iphone: ApacheRider :racing_motorcycle: PCGamer :video_game: BookWorm :books: FoodHunter :hamburger: SomeTimesHuman :pray::skin-tone-3: </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=srajasimman alt=srajasimman/> </p>
 
 - 🔭 I’m currently working on **devops and it automation**
