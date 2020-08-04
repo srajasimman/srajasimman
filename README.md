@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **srajasimman@gmail.com**
 
-
+- ⚡ Fun fact **I am lazy person and I will do everything faster then others**
 
 ### Connect with me
 <p align="left">
