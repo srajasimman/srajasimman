@@ -51,4 +51,4 @@
 	<img src=https://github-readme-stats.vercel.app/api?username=srajasimman&show_icons=true alt=srajasimman /> 
 </p>
 
-![Dino](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)
+![Dino](https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/gif/dino.gif)
