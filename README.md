@@ -53,6 +53,7 @@
 	<a href="https://www.google.com/search?q=nginx"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/nginx.png alt=nginx width="35" height="35"/></a> 
 	<a href="https://www.google.com/search?q=php"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/php.png alt=php width="35" height="35"/></a> 
 	<a href="https://www.google.com/search?q=postgresql"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/postgresql.png alt=postgresql width="35" height="35"/></a> 
+	<a href="https://www.google.com/search?q=puppet"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/puppet.png alt=puppet width="35" height="35"/></a> 
 	<a href="https://www.google.com/search?q=python"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/python.png alt=python width="35" height="35"/></a> 
 	<a href="https://www.google.com/search?q=raspberry"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/raspberry-pi.png alt=pi width="35" height="35"/></a> 
 	<a href="https://www.google.com/search?q=redhat"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/redhat.png alt=redhat width="35" height="35"/></a> 
