@@ -29,7 +29,7 @@
 </p>
 
 ### Languages and Tools
-<p align="left">
+<p align="center">
 	<a href="https://www.google.com/search?q=android"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/android.png alt=android width="30" height="30"/></a> 
 	<a href="https://www.google.com/search?q=ansible"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/ansible.png alt=ansible width="30" height="30"/></a> 
 	<a href="https://www.google.com/search?q=apache"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/apache.png alt=apache width="30" height="30"/></a> 
