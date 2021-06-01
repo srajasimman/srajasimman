@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **devops and it automation**
 
-- 👯 I’m looking to collaborate on **aws and ansilbe**
+- 👯 I’m looking to collaborate on **aws and puppet**
 
 - 🤔 I’m looking for help with **terraform**
 
 - 💬 Ask me about **linux, bash, python, apache, nginx, mysql and aws**
 
-- 📫 How to reach me **srajasimman@gmail.com**
+- 📫 How to reach me **https://t.me/RSimman** **srajasimman@gmail.com**
 
 - ⚡ Fun fact **I may look like a lazy person. but my brain functions 24/7 :wink:**
 
