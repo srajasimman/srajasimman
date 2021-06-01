@@ -12,18 +12,19 @@
 
 - 👯 I’m looking to collaborate on **aws and puppet**
 
-- 🤔 I’m looking for help with **terraform**
+- 🤔 I’m looking for help with **terraform and kubernetes**
 
 - 💬 Ask me about **linux, bash, python, apache, nginx, mysql and aws**
 
-- 📫 How to reach me **https://t.me/RSimman** **srajasimman@gmail.com**
+- 📫 How to reach me **[telegram](https://t.me/RSimman)** & **[email](mailto:srajasimman@gmail.com)**
 
 - ⚡ Fun fact **I may look like a lazy person. but my brain functions 24/7 :wink:**
 
 ### Connect with me
 <p align="left">
-	<a href=https://twitter.com/rsimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rsimman" height="25" width="25" /></a>
+	<a href=https://t.me/RSimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg alt="rsimman" height="25" width="25" /></a>
 	<a href=https://linkedin.com/in/rajasimman-shunmugam-8b746370 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rajasimman-shunmugam-8b746370" height="25" width="25" /></a>
+	<a href=https://twitter.com/rsimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rsimman" height="25" width="25" /></a>
 	<a href=https://fb.com/srajasimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="srajasimman" height="25" width="25" /></a>
 	<a href=https://dev.to/srajasimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="srajasimman" height="25" width="25" /></a>
 </p>
