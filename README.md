@@ -6,11 +6,11 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=srajasimman alt=srajasimman/> </p>
 
-- 📜 A passionate 👨🏽‍💻 system admin from India 🇮🇳
+- 📜 A passionate 👨🏽‍💻 SysAdmin/DevOps from India 🇮🇳
 
 - 🔭 I’m currently working on **devops and it automation**
 
-- 👯 I’m looking to collaborate on **aws and puppet**
+- 👯 I’m looking to collaborate on **aws and ansible**
 
 - 🤔 I’m looking for help with **terraform and kubernetes**
 
