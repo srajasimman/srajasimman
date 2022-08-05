@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajasimman</h1>
+<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=28&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman></p>
+
 
 <p align="center">
 	I like experimenting with new technologies, building small projects, and occasionally do penetration testing. ✨ <br>
