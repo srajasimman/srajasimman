@@ -72,7 +72,3 @@
 </p>
 
 ![Dino](https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/gif/dino.gif)
-
-<p align="center"> 
-	<img src=https://github-readme-stats.vercel.app/api?username=srajasimman&show_icons=true alt=srajasimman /> 
-</p>
