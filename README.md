@@ -61,11 +61,12 @@
 [![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.google.com/search?q=MySQL)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)](https://www.google.com/search?q=PostgreSQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%4169E1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4169E1)](https://www.google.com/search?q=MongoDB)
-[![CassandraDB](https://img.shields.io/badge/cassandra-%1287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white&color=1287B1)](https://www.google.com/search?q=WordPress)
+[![CassandraDB](https://img.shields.io/badge/cassandra-%1287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white&color=1287B1)](https://www.google.com/search?q=CassandraDB)
 [![WordPress](https://img.shields.io/badge/wordpress-%21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)](https://www.google.com/search?q=WordPress)
-[![VS-Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white")](https://www.google.com/search?q=VSCode)
-[![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-0078d7.svg?style=for-the-badge&logo=raspberrypi&logoColor=white")](https://www.google.com/search?q=Raspberrypi)
-[![Arduino](https://img.shields.io/badge/arduino-0078d7.svg?style=for-the-badge&logo=arduino&logoColor=white")](https://www.google.com/search?q=Arduino)
+[![VS-Code](https://img.shields.io/badge/vs%20code-%2496ED.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2496ED)](https://www.google.com/search?q=VSCode)
+[![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-%A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)](https://www.google.com/search?q=Raspberry+Pi)
+[![Arduino](https://img.shields.io/badge/arduino-%9E0500.svg?style=for-the-badge&logo=arduino&logoColor=white&color=00979D)](https://www.google.com/search?q=Arduino)
+[![Proxmox](https://img.shields.io/badge/proxmox-%E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white&color=E57000")](https://www.google.com/search?q=Proxmox)
 
 ## 📊 Statistics  
 <!-- github status  -->
