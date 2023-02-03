@@ -46,6 +46,7 @@
 [![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://www.google.com/search?q=GIT)
 [![GitHub](https://img.shields.io/badge/github-%181717.svg?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://www.google.com/search?q=GitHub)
 [![GitLab](https://img.shields.io/badge/gitlab-%FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26)](https://www.google.com/search?q=Gitlab)
+[![Jenkins](https://img.shields.io/badge/jenkins-%D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&color=D24939)](https://www.google.com/search?q=Jenkins)
 [![Docker](https://img.shields.io/badge/docker-%2496ED.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.google.com/search?q=Docker)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)](https://www.google.com/search?q=Kubernetes)
 [![ArgoCD](https://img.shields.io/badge/argoCD-%EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=EF7B4D)](https://www.google.com/search?q=ArgoCD)
