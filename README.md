@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=28&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman">
 </h1> 
 
-<b><h2 align="center">📜 A passionate 👨🏽‍💻 IT wizard from India 🇮🇳 </h2></b>
+<b><h2 align="center">👨🏽‍💻 A passionate IT wizard from India 🇮🇳 </h2></b>
 
 ### About Me 😎
 <p align="left" style="max-width:60%">
