@@ -45,6 +45,7 @@
 [![Google Cloud](https://img.shields.io/badge/google-%4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)](https://www.google.com/search?q=Google+Cloud)
 [![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://www.google.com/search?q=GIT)
 [![GitHub](https://img.shields.io/badge/github-%181717.svg?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://www.google.com/search?q=GitHub)
+[![GitLab](https://img.shields.io/badge/gitlab-%FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26)](https://www.google.com/search?q=Gitlab)
 [![Docker](https://img.shields.io/badge/docker-%2496ED.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.google.com/search?q=Docker)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)](https://www.google.com/search?q=Kubernetes)
 [![ArgoCD](https://img.shields.io/badge/argoCD-%EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=EF7B4D)](https://www.google.com/search?q=ArgoCD)
@@ -53,10 +54,13 @@
 [![Puppet](https://img.shields.io/badge/puppet-%FFAE1A.svg?style=for-the-badge&logo=puppet&logoColor=white&color=FFAE1A)](https://www.google.com/search?q=Puppet)
 [![Bash](https://img.shields.io/badge/bash-%4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)](https://www.google.com/search?q=Bash)
 [![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.google.com/search?q=Python)
+[![Go](https://img.shields.io/badge/go-%3776AB.svg?style=for-the-badge&logo=go&logoColor=white&color=3776AB)](https://www.google.com/search?q=Go)
 [![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)](https://www.google.com/search?q=PHP)
 [![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.google.com/search?q=MySQL)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)](https://www.google.com/search?q=PostgreSQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%4169E1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4169E1)](https://www.google.com/search?q=MongoDB)
+[![CassandraDB](https://img.shields.io/badge/cassandra-%1287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white&color=1287B1)](https://www.google.com/search?q=WordPress)
+[![WordPress](https://img.shields.io/badge/wordpress-%21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)](https://www.google.com/search?q=WordPress)
 
 
 ## 📊 Statistics  
