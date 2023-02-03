@@ -1,3 +1,4 @@
+<br>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=36&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman">
 </h1> 
