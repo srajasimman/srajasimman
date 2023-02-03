@@ -9,8 +9,6 @@
 
 - 👨‍💻 I am a open-source tech-enthusiast, competent, well-focused sysadmin, cloud and DevOps knowledge with experience.
 
-- 🚧 I am passionate about building design and building IT solutions.
-
 - 📚 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 - ✨ like experimenting with new technologies, building small projects, and occasionally do penetration testing.
