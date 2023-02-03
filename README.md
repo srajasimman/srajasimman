@@ -40,6 +40,7 @@
 
 ### My Skills 🚀
 [![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)](https://www.google.com/search?q=Linux)
+[![Proxmox](https://img.shields.io/badge/proxmox-%E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white&color=E57000")](https://www.google.com/search?q=Proxmox)
 [![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)](https://www.google.com/search?q=Amazon+AWS)
 [![Microsoft Azure](https://img.shields.io/badge/azure-microsoft.svg?style=for-the-badge&logo=microsoft-azure&color=0078D4)](https://www.google.com/search?q=Microsoft+Azure)
 [![Google Cloud](https://img.shields.io/badge/google-%4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)](https://www.google.com/search?q=Google+Cloud)
@@ -62,11 +63,12 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)](https://www.google.com/search?q=PostgreSQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%4169E1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4169E1)](https://www.google.com/search?q=MongoDB)
 [![CassandraDB](https://img.shields.io/badge/cassandra-%1287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white&color=1287B1)](https://www.google.com/search?q=CassandraDB)
+[![Jira](https://img.shields.io/badge/jira-%21759B.svg?style=for-the-badge&logo=jira&logoColor=white&color=0052CC)](https://www.google.com/search?q=jira)
 [![WordPress](https://img.shields.io/badge/wordpress-%21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)](https://www.google.com/search?q=WordPress)
 [![VS-Code](https://img.shields.io/badge/vs%20code-%2496ED.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2496ED)](https://www.google.com/search?q=VSCode)
 [![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-%A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)](https://www.google.com/search?q=Raspberry+Pi)
 [![Arduino](https://img.shields.io/badge/arduino-%9E0500.svg?style=for-the-badge&logo=arduino&logoColor=white&color=00979D)](https://www.google.com/search?q=Arduino)
-[![Proxmox](https://img.shields.io/badge/proxmox-%E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white&color=E57000")](https://www.google.com/search?q=Proxmox)
+
 
 ## 📊 Statistics  
 <!-- github status  -->
