@@ -1,74 +1,81 @@
-<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=28&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&color=%23259076&size=28&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman">
+</h1> 
 
+<b><h2 align="center">📜 A passionate 👨🏽‍💻 IT wizard from India 🇮🇳 </h2></b>
 
-<p align="center">
-	I like experimenting with new technologies, building small projects, and occasionally do penetration testing. ✨ <br>
+### About Me 😎
+<p align="left" style="max-width:60%">
+
+- 👨‍💻 I am a open-source tech-enthusiast, competent, well-focused sysadmin, cloud and DevOps knowledge with experience.
+
+- 🚧 I am passionate about building design and building IT solutions.
+
+- 📚 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+- ✨ like experimenting with new technologies, building small projects, and occasionally do penetration testing.
+
+- 🔭 I’m currently working on **DevOps and Cloud Architect**
+
+- 👯 I’m looking to collaborate on **kubernetes and cncf projects**
+
+- 🤔 I’m looking for help with **argocd and terraform**
+
+- 💬 Ask me about **linux, aws, azure, gcp, bash, python, docker, kubernetes and terraform**
+
+- 📫 How to reach me **[telegram](https://t.me/RSimman)** & **[twitter](https://twitter.com/rsimman)**
+
+- 🔈 Fun fact **I may look like a lazy person. but my brain functions 24/7 :wink:**
+
 </p>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=srajasimman alt=srajasimman/> </p>
+### Connect With Me 🤝
 
-- 📜 A passionate 👨🏽‍💻 SysAdmin/DevOps from India 🇮🇳
+[<img src="https://img.shields.io/badge/rajasimman-%0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />](https://www.linkedin.com/in/rajasimman-sha/)
+[<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">](https://twitter.com/rsimman)
+[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/srajasimman)
+[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/srajasimman)
+[<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4">](https://t.me/RSimman)
+[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=0A0A0A">](https://dev.to/srajasimman)
 
-- 🔭 I’m currently working on **devops and it automation**
+### My Skills 🚀
+[![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)](https://www.google.com/search?q=Linux)
+[![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)](https://www.google.com/search?q=Amazon+AWS)
+[![Microsoft Azure](https://img.shields.io/badge/azure-microsoft.svg?style=for-the-badge&logo=microsoft-azure&color=0078D4)](https://www.google.com/search?q=Microsoft+Azure)
+[![Google Cloud](https://img.shields.io/badge/google-%4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)](https://www.google.com/search?q=Google+Cloud)
+[![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://www.google.com/search?q=GIT)
+[![GitHub](https://img.shields.io/badge/github-%181717.svg?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://www.google.com/search?q=GitHub)
+[![Docker](https://img.shields.io/badge/docker-%2496ED.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.google.com/search?q=Docker)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)](https://www.google.com/search?q=Kubernetes)
+[![ArgoCD](https://img.shields.io/badge/argoCD-%EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=EF7B4D)](https://www.google.com/search?q=ArgoCD)
+[![Terraform](https://img.shields.io/badge/terraform-%7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)](https://www.google.com/search?q=Terraform)
+[![Ansible](https://img.shields.io/badge/ansible-%EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white&color=EE0000)](https://www.google.com/search?q=Ansible)
+[![Puppet](https://img.shields.io/badge/puppet-%FFAE1A.svg?style=for-the-badge&logo=puppet&logoColor=white&color=FFAE1A)](https://www.google.com/search?q=Puppet)
+[![Bash](https://img.shields.io/badge/bash-%4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)](https://www.google.com/search?q=Bash)
+[![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.google.com/search?q=Python)
+[![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)](https://www.google.com/search?q=PHP)
+[![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.google.com/search?q=MySQL)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)](https://www.google.com/search?q=PostgreSQL)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%4169E1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4169E1)](https://www.google.com/search?q=MongoDB)
 
-- 👯 I’m looking to collaborate on **aws and ansible**
 
-- 🤔 I’m looking for help with **terraform and kubernetes**
+## 📊 Statistics  
+<!-- github status  -->
+<div align="center">    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srajasimman&theme=github_dark" style="height: 300px"/></div>
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srajasimman&theme=github_dark" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srajasimman&theme=github_dark" width="45%" />
 
-- 💬 Ask me about **linux, bash, python, apache, nginx, mysql and aws**
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srajasimman&theme=github_dark" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srajasimman&theme=github_dark&utcOffset=8" width="45%" />
 
-- 📫 How to reach me **[telegram](https://t.me/RSimman)** & **[email](mailto:srajasimman@gmail.com)**
-
-- ⚡ Fun fact **I may look like a lazy person. but my brain functions 24/7 :wink:**
-
-### Connect with me
-<p align="left">
-	<a href=https://t.me/RSimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg alt="rsimman" height="25" width="25" /></a>
-	<a href=https://www.linkedin.com/in/rajasimman-sha/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rajasimman-shunmugam-8b746370" height="25" width="25" /></a>
-	<a href=https://twitter.com/rsimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rsimman" height="25" width="25" /></a>
-	<a href=https://fb.com/srajasimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="srajasimman" height="25" width="25" /></a>
-	<a href=https://dev.to/srajasimman target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="srajasimman" height="25" width="25" /></a>
-</p>
-
-### Languages and Tools
-<p align="center">
-	<a href="https://www.google.com/search?q=android"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/android.png alt=android width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=ansible"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/ansible.png alt=ansible width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=apache"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/apache.png alt=apache width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=arduino"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/arduino.png alt=arduino width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=aws"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/aws.png alt=aws width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=azure"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/azure.png alt=azure width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=bash"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/bash.png alt=bash width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=debian"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/debian.png alt=debian width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=docker"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/docker.png alt=docker width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=github"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/github.png alt=github width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=gitlab"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/gitlab.png alt=gitlab width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=git"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/git.png alt=git width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=go"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/go.png alt=go width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=homebrew"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/homebrew.png alt=homebrew width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=json"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/json.png alt=json width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=linux"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/linux.png alt=linux width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=markdown"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/markdown.png alt=markdown width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=microsoft"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/microsoft.png alt=microsoft width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=mongodb"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/mongodb.png alt=mongodb width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=mysql"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/mysql.png alt=mysql width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=nginx"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/nginx.png alt=nginx width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=php"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/php.png alt=php width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=postgresql"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/postgresql.png alt=postgresql width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=puppet"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/puppet.png alt=puppet width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=python"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/python.png alt=python width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=raspberry"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/raspberry-pi.png alt=pi width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=redhat"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/redhat.png alt=redhat width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=ruby"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/ruby.png alt=ruby width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=rust"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/rust.png alt=rust width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=sublime-text"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/sublime-text.png alt=sublime-text width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=terminal"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/terminal.png alt=terminal width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=terraform"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/terraform.png alt=terraform width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=ubuntu"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/ubuntu.png alt=ubuntu width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=vagrant"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/vagrant.png alt=vagrant width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=vim"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/vim.png alt=vim width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=vscode"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/vscode.png alt=vscode width="35" height="35"/></a> 
-	<a href="https://www.google.com/search?q=wordpress"><img src=https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/img/wordpress.png alt=wordpress width="35" height="35"/></a> 
-</p>
-
-![Dino](https://raw.githubusercontent.com/srajasimman/srajasimman/master/src/gif/dino.gif)
+</div>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=srajasimman&theme=react-dark&hide_border=true" /></a>    
+<div align="center">    
+<img src="https://github-profile-trophy.vercel.app/?username=srajasimman&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"/></div>  
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
