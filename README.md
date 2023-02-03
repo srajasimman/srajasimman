@@ -45,6 +45,7 @@
 [![Google Cloud](https://img.shields.io/badge/google-%4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)](https://www.google.com/search?q=Google+Cloud)
 [![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://www.google.com/search?q=GIT)
 [![GitHub](https://img.shields.io/badge/github-%181717.svg?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://www.google.com/search?q=GitHub)
+[![GitHub-Actions](https://img.shields.io/badge/actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://www.google.com/search?q=GitHub+Actions)
 [![GitLab](https://img.shields.io/badge/gitlab-%FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=FC6D26)](https://www.google.com/search?q=Gitlab)
 [![Jenkins](https://img.shields.io/badge/jenkins-%D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&color=D24939)](https://www.google.com/search?q=Jenkins)
 [![Docker](https://img.shields.io/badge/docker-%2496ED.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.google.com/search?q=Docker)
@@ -62,7 +63,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%4169E1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4169E1)](https://www.google.com/search?q=MongoDB)
 [![CassandraDB](https://img.shields.io/badge/cassandra-%1287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white&color=1287B1)](https://www.google.com/search?q=WordPress)
 [![WordPress](https://img.shields.io/badge/wordpress-%21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)](https://www.google.com/search?q=WordPress)
-
+[![VS-Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white")](https://www.google.com/search?q=VSCode)
+[![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-0078d7.svg?style=for-the-badge&logo=raspberrypi&logoColor=white")](https://www.google.com/search?q=Raspberrypi)
+[![Arduino](https://img.shields.io/badge/arduino-0078d7.svg?style=for-the-badge&logo=arduino&logoColor=white")](https://www.google.com/search?q=Arduino)
 
 ## 📊 Statistics  
 <!-- github status  -->
