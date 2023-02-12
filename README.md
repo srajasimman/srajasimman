@@ -37,6 +37,7 @@
 [<img src="https://img.shields.io/badge/srajasimman-%181717.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=0A0A0A">](https://dev.to/srajasimman)
 
 ### My Skills 🚀
+
 [![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)](https://www.google.com/search?q=Amazon+AWS)
 [![Microsoft Azure](https://img.shields.io/badge/azure-microsoft.svg?style=for-the-badge&logo=microsoft-azure&color=0078D4)](https://www.google.com/search?q=Microsoft+Azure)
 [![Google Cloud](https://img.shields.io/badge/google-%4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)](https://www.google.com/search?q=Google+Cloud)
@@ -67,10 +68,12 @@
 [![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-%A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)](https://www.google.com/search?q=Raspberry+Pi)
 [![Arduino](https://img.shields.io/badge/arduino-%9E0500.svg?style=for-the-badge&logo=arduino&logoColor=white&color=00979D)](https://www.google.com/search?q=Arduino)
 
-## 👨‍💻 Daily.dev
+### 👨‍💻 Daily.dev
+
 <a href="https://app.daily.dev/srajasimman"><img src="https://github.com/srajasimman/srajasimman/blob/master/devcard.svg" width="400" alt="Rajasimman S's Dev Card"/></a>
 
-## 📊 Statistics  
+### 📊 Statistics
+
 <!-- github status  -->
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srajasimman&theme=github_dark" style="height: 300px"/></div>
