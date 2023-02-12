@@ -37,11 +37,11 @@
 [<img src="https://img.shields.io/badge/srajasimman-%181717.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=0A0A0A">](https://dev.to/srajasimman)
 
 ### My Skills 🚀
-[![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)](https://www.google.com/search?q=Linux)
-[![Proxmox](https://img.shields.io/badge/proxmox-%E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white&color=E57000")](https://www.google.com/search?q=Proxmox)
 [![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)](https://www.google.com/search?q=Amazon+AWS)
 [![Microsoft Azure](https://img.shields.io/badge/azure-microsoft.svg?style=for-the-badge&logo=microsoft-azure&color=0078D4)](https://www.google.com/search?q=Microsoft+Azure)
 [![Google Cloud](https://img.shields.io/badge/google-%4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)](https://www.google.com/search?q=Google+Cloud)
+[![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)](https://www.google.com/search?q=Linux)
+[![Proxmox](https://img.shields.io/badge/proxmox-%E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white&color=E57000")](https://www.google.com/search?q=Proxmox)
 [![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://www.google.com/search?q=GIT)
 [![GitHub](https://img.shields.io/badge/github-%181717.svg?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://www.google.com/search?q=GitHub)
 [![GitHub-Actions](https://img.shields.io/badge/actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://www.google.com/search?q=GitHub+Actions)
