@@ -67,6 +67,8 @@
 [![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-%A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)](https://www.google.com/search?q=Raspberry+Pi)
 [![Arduino](https://img.shields.io/badge/arduino-%9E0500.svg?style=for-the-badge&logo=arduino&logoColor=white&color=00979D)](https://www.google.com/search?q=Arduino)
 
+## 👨‍💻 Daily.dev
+<a href="https://app.daily.dev/srajasimman"><img src="https://api.daily.dev/devcards/fd30942dc985496c87a4152d45fbfed6.png?r=ivx" width="400" alt="Rajasimman S's Dev Card"/></a>
 
 ## 📊 Statistics  
 <!-- github status  -->
