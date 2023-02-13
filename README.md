@@ -70,7 +70,7 @@
 
 ### 👨‍💻 Daily.dev
 
-<a href="https://app.daily.dev/srajasimman"><img src="https://github.com/srajasimman/srajasimman/blob/master/devcard.svg" width="400" alt="Rajasimman S's Dev Card"/></a>
+<a href="https://app.daily.dev/srajasimman"><img src="https://github.com/srajasimman/srajasimman/blob/master/devcard.svg" width="300" alt="Rajasimman S's Dev Card"/></a>
 
 ### 📊 Statistics
 
