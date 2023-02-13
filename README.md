@@ -13,7 +13,7 @@
 
 - ✨ like experimenting with new technologies, building small projects, and occasionally do penetration testing.
 
-- 🔭 I’m currently working on **DevOps and Cloud Architect**
+- 🔭 I’m currently working as **DevOps/SRE and Cloud Architect**
 
 - 👯 I’m looking to collaborate on **kubernetes and cncf projects**
 
