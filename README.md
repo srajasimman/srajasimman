@@ -72,6 +72,11 @@
 
 <a href="https://app.daily.dev/srajasimman"><img src="https://github.com/srajasimman/srajasimman/blob/master/devcard.svg" width="350" alt="Rajasimman S's Dev Card"/></a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+<a><img alt="Rajasimman Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=srajasimman&area=true&hide_border=true&theme=github-compact" /></a>
+
+
 ### 📊 Statistics
 
 <!-- github status  -->
@@ -87,9 +92,6 @@
 
 </div>
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left">⚡Activity Graph:</h2>
-<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=srajasimman&area=true&hide_border=true&theme=github-compact" /></a>
 <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=srajasimman&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"/></div>  
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
