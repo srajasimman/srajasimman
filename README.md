@@ -38,7 +38,7 @@
 
 ### My Skills 🚀
 
-[![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E&logoColor=FF9900)](https://www.google.com/search?q=Amazon+AWS)
+[![AWS](https://img.shields.io/badge/aws-amazon.svg?style=for-the-badge&logo=amazon-aws&color=232F3E&logoColor=FF9900)](https://www.google.com/search?q=Amazon+AWS)
 [![Microsoft Azure](https://img.shields.io/badge/azure-microsoft.svg?style=for-the-badge&logo=microsoft-azure&color=0078D4)](https://www.google.com/search?q=Microsoft+Azure)
 [![Google Cloud](https://img.shields.io/badge/google-%4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)](https://www.google.com/search?q=Google+Cloud)
 [![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)](https://www.google.com/search?q=Linux)
