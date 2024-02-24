@@ -51,6 +51,7 @@
 [![Jenkins](https://img.shields.io/badge/jenkins-%D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white&color=D24939)](https://www.google.com/search?q=Jenkins)
 [![Docker](https://img.shields.io/badge/docker-%2496ED.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.google.com/search?q=Docker)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)](https://www.google.com/search?q=Kubernetes)
+[![Helm](https://img.shields.io/badge/helm-%0F1689.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=0F1689)](https://www.google.com/search?q=Helm)
 [![ArgoCD](https://img.shields.io/badge/argoCD-%EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=EF7B4D)](https://www.google.com/search?q=ArgoCD)
 [![Terraform](https://img.shields.io/badge/terraform-%7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)](https://www.google.com/search?q=Terraform)
 [![Ansible](https://img.shields.io/badge/ansible-%EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white&color=EE0000)](https://www.google.com/search?q=Ansible)
