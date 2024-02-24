@@ -77,9 +77,14 @@
 <a href="https://app.daily.dev/srajasimman"><img src="https://github.com/srajasimman/srajasimman/blob/master/devcard.svg" width="350" alt="Rajasimman S's Dev Card"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left">⚡Activity Graph:</h2>
-<a><img alt="Rajasimman Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=srajasimman&area=true&hide_border=true&theme=github-compact" /></a>
 
+<h2 align="left">📝Recent Activity</h2>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<h2 align="left">⚡Activity Graph</h2>
+<a><img alt="Rajasimman Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=srajasimman&area=true&hide_border=true&theme=github-compact" /></a>
 
 ### 📊 Statistics
 
