@@ -80,7 +80,7 @@
 
 <h2 align="left">📝Recent Activity</h2>
 <!--START_SECTION:activity-->
-_
+1. 🚀 Published release [cbrelease-4.8.9_RC5](https://github.com/sunbird-cb/knowledge-platform/releases/tag/cbrelease-4.8.9_RC5) in [sunbird-cb/knowledge-platform](https://github.com/sunbird-cb/knowledge-platform)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
