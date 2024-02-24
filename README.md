@@ -78,7 +78,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">📝Recent Activity</h2>
+## 📝Recent Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [cbrelease-4.8.9_RC5](https://github.com/sunbird-cb/knowledge-platform/releases/tag/cbrelease-4.8.9_RC5) in [sunbird-cb/knowledge-platform](https://github.com/sunbird-cb/knowledge-platform)
 <!--END_SECTION:activity-->
