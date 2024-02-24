@@ -80,7 +80,7 @@
 
 <h2 align="left">📝Recent Activity</h2>
 <!--START_SECTION:activity-->
-
+_
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
