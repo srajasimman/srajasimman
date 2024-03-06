@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cbrelease-4.8.9_RC5](https://github.com/sunbird-cb/knowledge-platform/releases/tag/cbrelease-4.8.9_RC5) in [sunbird-cb/knowledge-platform](https://github.com/sunbird-cb/knowledge-platform)
+1. 🎉 Merged PR [#2](https://github.com/optit-cloud-team/sample-projects/pull/2) in [optit-cloud-team/sample-projects](https://github.com/optit-cloud-team/sample-projects)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
