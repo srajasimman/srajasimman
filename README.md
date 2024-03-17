@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/optit-cloud-team/sample-projects/pull/7) in [optit-cloud-team/sample-projects](https://github.com/optit-cloud-team/sample-projects)
+1. 💪 Opened PR [#13](https://github.com/optit-cloud-team/sample-projects/pull/13) in [optit-cloud-team/sample-projects](https://github.com/optit-cloud-team/sample-projects)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
