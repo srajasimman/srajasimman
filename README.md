@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/optit-cloud-team/sample-projects/pull/13) in [optit-cloud-team/sample-projects](https://github.com/optit-cloud-team/sample-projects)
+1. 🗣 Commented on [#100](https://github.com/sunbird-cb/sunbird-cb-devops/pull/100#issuecomment-2004499560) in [sunbird-cb/sunbird-cb-devops](https://github.com/sunbird-cb/sunbird-cb-devops)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
