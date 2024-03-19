@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/sunbird-cb/sunbird-cb-devops/pull/100#issuecomment-2004499560) in [sunbird-cb/sunbird-cb-devops](https://github.com/sunbird-cb/sunbird-cb-devops)
+1. 🚀 Published release [v1.0.0](https://github.com/srajasimman/jenkins-pipeline-generator/releases/tag/v1.0.0) in [srajasimman/jenkins-pipeline-generator](https://github.com/srajasimman/jenkins-pipeline-generator)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
