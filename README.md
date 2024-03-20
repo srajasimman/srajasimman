@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.5](https://github.com/srajasimman/jenkins-pipeline-generator/releases/tag/v1.0.5) in [srajasimman/jenkins-pipeline-generator](https://github.com/srajasimman/jenkins-pipeline-generator)
+1. ❌ Closed PR [#1](https://github.com/srajasimman/jenkins-pipeline-generator/pull/1) in [srajasimman/jenkins-pipeline-generator](https://github.com/srajasimman/jenkins-pipeline-generator)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
