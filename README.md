@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/srajasimman/jenkins-pipeline-generator/pull/1) in [srajasimman/jenkins-pipeline-generator](https://github.com/srajasimman/jenkins-pipeline-generator)
+1. 💪 Opened PR [#7](https://github.com/codediodeio/rembg-webapp-tutorial/pull/7) in [codediodeio/rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
