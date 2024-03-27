@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/dicdiksha/sunbird-devops/pull/45) in [dicdiksha/sunbird-devops](https://github.com/dicdiksha/sunbird-devops)
+1. 💪 Opened PR [#3974](https://github.com/project-sunbird/sunbird-devops/pull/3974) in [project-sunbird/sunbird-devops](https://github.com/project-sunbird/sunbird-devops)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
