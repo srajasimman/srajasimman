@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/codediodeio/rembg-webapp-tutorial/pull/7) in [codediodeio/rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial)
+1. 💪 Opened PR [#45](https://github.com/dicdiksha/sunbird-devops/pull/45) in [dicdiksha/sunbird-devops](https://github.com/dicdiksha/sunbird-devops)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
