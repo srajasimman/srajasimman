@@ -27,15 +27,6 @@
 
 </p>
 
-### Connect With Me 🤝
-
-[<img src="https://img.shields.io/badge/rajasimman-%0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />](https://www.linkedin.com/in/rajasimman-sha/)
-[<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">](https://twitter.com/rsimman)
-[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/srajasimman)
-[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/srajasimman)
-[<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4">](https://t.me/RSimman)
-[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=0A0A0A">](https://dev.to/srajasimman)
-
 ### My Skills 🚀
 
 [![AWS](https://img.shields.io/badge/aws-amazon.svg?style=for-the-badge&logo=amazon-aws&color=232F3E&logoColor=FF9900)](https://www.google.com/search?q=Amazon+AWS)
@@ -71,6 +62,15 @@
 [![VS-Code](https://img.shields.io/badge/vs%20code-%2496ED.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2496ED)](https://www.google.com/search?q=VSCode)
 [![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-%A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)](https://www.google.com/search?q=Raspberry+Pi)
 [![Arduino](https://img.shields.io/badge/arduino-%9E0500.svg?style=for-the-badge&logo=arduino&logoColor=white&color=00979D)](https://www.google.com/search?q=Arduino)
+
+### Connect With Me 🤝
+
+[<img src="https://img.shields.io/badge/rajasimman-%0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />](https://www.linkedin.com/in/rajasimman-sha/)
+[<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">](https://twitter.com/rsimman)
+[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/srajasimman)
+[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/srajasimman)
+[<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4">](https://t.me/RSimman)
+[<img src="https://img.shields.io/badge/srajasimman-%181717.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=0A0A0A">](https://dev.to/srajasimman)
 
 ### 👨‍💻 Daily.dev
 
