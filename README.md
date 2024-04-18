@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#263](https://github.com/sunbird-cb/sunbird-devops/pull/263) in [sunbird-cb/sunbird-devops](https://github.com/sunbird-cb/sunbird-devops)
+1. 🚀 Published release [2.4.0](https://github.com/srajasimman/s3cmd/releases/tag/2.4.0) in [srajasimman/s3cmd](https://github.com/srajasimman/s3cmd)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
