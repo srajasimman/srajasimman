@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Catamaran&size=26&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman" alt="Typing SVG" />
-</h1> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Catamaran&size=32&pause=1000&color=00A71A&repeat=false&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman" alt="Typing SVG" />
+</h1>
 
 <b><h2 align="center">👨🏽‍💻 A passionate IT wizard from India 🇮🇳 </h2></b>
 
