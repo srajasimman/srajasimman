@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.4.0](https://github.com/srajasimman/s3cmd/releases/tag/2.4.0) in [srajasimman/s3cmd](https://github.com/srajasimman/s3cmd)
+1. 🚀 Published release [cbrelease-4.8.15_RC7](https://github.com/sunbird-cb/sunbird-cb-portal/releases/tag/cbrelease-4.8.15_RC7) in [sunbird-cb/sunbird-cb-portal](https://github.com/sunbird-cb/sunbird-cb-portal)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
