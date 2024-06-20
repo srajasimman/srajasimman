@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cbrelease-4.8.15_RC7](https://github.com/sunbird-cb/cb-pores-service/releases/tag/cbrelease-4.8.15_RC7) in [sunbird-cb/cb-pores-service](https://github.com/sunbird-cb/cb-pores-service)
+1. 🎉 Merged PR [#1](https://github.com/srajasimman/openresty-prometheus/pull/1) in [srajasimman/openresty-prometheus](https://github.com/srajasimman/openresty-prometheus)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
