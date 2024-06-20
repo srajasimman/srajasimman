@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/KB-iGOT/sunbird-devops/pull/15) in [KB-iGOT/sunbird-devops](https://github.com/KB-iGOT/sunbird-devops)
+1. 🚀 Published release [cbrelease-4.8.15_RC7](https://github.com/sunbird-cb/cb-pores-service/releases/tag/cbrelease-4.8.15_RC7) in [sunbird-cb/cb-pores-service](https://github.com/sunbird-cb/cb-pores-service)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
