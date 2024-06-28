@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/srajasimman/ansible-role-users/pull/1) in [srajasimman/ansible-role-users](https://github.com/srajasimman/ansible-role-users)
+1. 🚀 Published release [cbrelease-4.8.15_RC4](https://github.com/sunbird-cb/sunbird-devops/releases/tag/cbrelease-4.8.15_RC4) in [sunbird-cb/sunbird-devops](https://github.com/sunbird-cb/sunbird-devops)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
