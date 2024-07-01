@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cbrelease-4.8.15_RC4](https://github.com/sunbird-cb/sunbird-devops/releases/tag/cbrelease-4.8.15_RC4) in [sunbird-cb/sunbird-devops](https://github.com/sunbird-cb/sunbird-devops)
+1. 🚀 Published release [v2.2](https://github.com/srajasimman/openresty-prometheus/releases/tag/v2.2) in [srajasimman/openresty-prometheus](https://github.com/srajasimman/openresty-prometheus)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
