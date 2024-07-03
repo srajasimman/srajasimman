@@ -102,5 +102,4 @@
 </div>
 <br/>
 <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=srajasimman&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"/></div>  
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<a href="https://github.com/srajasimman"><img src="https://github.com/srajasimman/srajasimman/blob/master/metrics.plugin.achievements.svg" alt="Metrics"/></a>
