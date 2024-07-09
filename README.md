@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cbrelease-4.8.15_RC25](https://github.com/sunbird-cb/sunbird-cb-ext/releases/tag/cbrelease-4.8.15_RC25) in [sunbird-cb/sunbird-cb-ext](https://github.com/sunbird-cb/sunbird-cb-ext)
+1. 🚀 Published release [cbrelease-4.8.15_RC28](https://github.com/sunbird-cb/sunbird-cb-adminportal/releases/tag/cbrelease-4.8.15_RC28) in [sunbird-cb/sunbird-cb-adminportal](https://github.com/sunbird-cb/sunbird-cb-adminportal)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
