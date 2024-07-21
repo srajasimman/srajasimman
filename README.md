@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0](https://github.com/srajasimman/openresty-prometheus/releases/tag/v2.0) in [srajasimman/openresty-prometheus](https://github.com/srajasimman/openresty-prometheus)
+1. 🚀 Published release [v2.2](https://github.com/srajasimman/openresty-prometheus/releases/tag/v2.2) in [srajasimman/openresty-prometheus](https://github.com/srajasimman/openresty-prometheus)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
