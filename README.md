@@ -80,7 +80,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/srajasimman/ansible-user-update/pull/3) in [srajasimman/ansible-user-update](https://github.com/srajasimman/ansible-user-update)
+1. 🚀 Published release [v2.0](https://github.com/srajasimman/openresty-prometheus/releases/tag/v2.0) in [srajasimman/openresty-prometheus](https://github.com/srajasimman/openresty-prometheus)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
