@@ -4,7 +4,7 @@
 
 <b><h2 align="center">👨🏽‍💻 An Enthusiastic IT Wizard from India 🇮🇳 </h2></b>
 
-### About Me 😎
+### About Me 😎 | <a href="https://github.com/srajasimman/resume">Resume</a>
 <p align="left" style="max-width:60%">
 
 - 👨‍💻 I am a open-source tech-enthusiast, competent, well-focused sysadmin, cloud and DevOps knowledge with experience.
