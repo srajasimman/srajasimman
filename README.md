@@ -66,7 +66,7 @@
 ### Connect With Me 🤝
 
 [<img src="https://img.shields.io/badge/rajasimman-%0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />](https://www.linkedin.com/in/rajasimman-sha/)
-[<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">](https://twitter.com/rsimman)
+[<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=x&logoColor=white&color=0A0A0A">](https://x.com/rsimman)
 [<img src="https://img.shields.io/badge/srajasimman-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/srajasimman)
 [<img src="https://img.shields.io/badge/srajasimman-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/srajasimman)
 [<img src="https://img.shields.io/badge/rsimman-%2320A1F1.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4">](https://t.me/RSimman)
