@@ -1,23 +1,23 @@
 <h1 align="center">
+  <img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" alt="Codeing From Home"/><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Catamaran&size=32&pause=1000&color=00A71A&repeat=false&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman" alt="Typing SVG" />
 </h1>
-
 <b><h2 align="center">👨🏽‍💻 An Enthusiastic IT Wizard from India 🇮🇳 </h2></b>
 
 ### About Me 😎 | <a href="https://srajasimman.github.io/resume/">Resume</a>
 <p align="left" style="max-width:60%">
 
-- 👨‍💻 I am a open-source tech-enthusiast, competent, well-focused sysadmin, cloud and DevOps knowledge with experience.
+- 👨‍💻 I am an open-source tech enthusiast, skilled and dedicated specialist with extensive knowledge and experience in cloud and DevOps.
 
 - 📚 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- ✨ like experimenting with new technologies, building small projects, and occasionally do penetration testing.
+- ✨ Like experimenting with new technologies, building small projects, and occasionally doing penetration testing.
 
 - 🔭 I’m currently working as **DevOps/SRE and Cloud Solution Architect**
 
-- 👯 I’m looking to collaborate on **kubernetes and cncf projects**
+- 👯 I’m looking to collaborate on **Kubernetes and CNCF projects**
 
-- 🤔 I’m looking for help with **argocd and terraform**
+- 🤔 I’m looking for help with **ArgoCD and Terraform**
 
 - 💬 Ask me about **linux, aws, azure, gcp, bash, python, docker, kubernetes and terraform**
 
@@ -27,7 +27,7 @@
 
 </p>
 
-### My Skills 🚀
+### My Skills 🪄
 
 [![AWS](https://img.shields.io/badge/aws-amazon.svg?style=for-the-badge&logo=amazonwebservices&color=232F3E&logoColor=white)](https://www.google.com/search?q=Amazon+AWS)
 [![Microsoft Azure](https://img.shields.io/badge/azure-microsoft.svg?style=for-the-badge&logo=microsoft-azure&color=0078D4)](https://www.google.com/search?q=Microsoft+Azure)
