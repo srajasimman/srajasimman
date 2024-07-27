@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" alt="Codeing From Home"/><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Catamaran&size=32&pause=1000&color=00A71A&repeat=false&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+this+is+Rajasimman" alt="Typing SVG" />
 </h1>
 <b><h2 align="center">👨🏽‍💻 An Enthusiastic IT Wizard from India 🇮🇳 </h2></b>
