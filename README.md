@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **[telegram](https://t.me/RSimman)** & **[twitter](https://twitter.com/rsimman)**
 
-- 🔈 Fun fact **I may look like a lazy person. but my brain functions 24/7 :wink:**
+- 🔈 Fun fact **I might seem lazy, but my brain always works around the clock. :wink:**
 
 </p>
 
