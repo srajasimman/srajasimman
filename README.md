@@ -79,7 +79,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/KB-iGOT/igot-gcp-server-access/pull/34) in [KB-iGOT/igot-gcp-server-access](https://github.com/KB-iGOT/igot-gcp-server-access)
+1. 🚀 Published release [v2.2](https://github.com/srajasimman/openresty-prometheus/releases/tag/v2.2) in [srajasimman/openresty-prometheus](https://github.com/srajasimman/openresty-prometheus)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
