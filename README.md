@@ -79,7 +79,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2](https://github.com/srajasimman/openresty-prometheus/releases/tag/v2.2) in [srajasimman/openresty-prometheus](https://github.com/srajasimman/openresty-prometheus)
+1. ❌ Closed PR [#588](https://github.com/Sunbird-cQube/cQube_Edu/pull/588) in [Sunbird-cQube/cQube_Edu](https://github.com/Sunbird-cQube/cQube_Edu)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
