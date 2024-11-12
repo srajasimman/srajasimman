@@ -79,7 +79,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#588](https://github.com/Sunbird-cQube/cQube_Edu/pull/588) in [Sunbird-cQube/cQube_Edu](https://github.com/Sunbird-cQube/cQube_Edu)
+1. 🎉 Merged PR [#2](https://github.com/srajasimman/jenkins-pipeline-generator/pull/2) in [srajasimman/jenkins-pipeline-generator](https://github.com/srajasimman/jenkins-pipeline-generator)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
