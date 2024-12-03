@@ -4,7 +4,7 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 jobs:
-  build:
+  github-activity-update:
     name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
     permissions:
@@ -15,13 +15,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
-  devcard:
+  devcard-update:
     name: Update daily.dev stats
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
+        uses: dailydotdev/action-devcard@3.0.0
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          user_id: ${{ secrets.DEVCARD_ID }}
+          commit_message: "chore: update ${filename}"
