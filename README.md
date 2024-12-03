@@ -79,7 +79,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/srajasimman/jenkins-pipeline-generator/pull/2) in [srajasimman/jenkins-pipeline-generator](https://github.com/srajasimman/jenkins-pipeline-generator)
+1. 🎉 Merged PR [#1](https://github.com/srajasimman/srajasimman/pull/1) in [srajasimman/srajasimman](https://github.com/srajasimman/srajasimman)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
