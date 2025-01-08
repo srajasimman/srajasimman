@@ -1,7 +1,6 @@
 name: Activity Update
 on:
-  schedule:
-    - cron: "*/30 * * * *"
+  schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
 jobs:
   build:
