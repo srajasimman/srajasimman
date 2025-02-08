@@ -79,7 +79,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/srajasimman/srajasimman/pull/1) in [srajasimman/srajasimman](https://github.com/srajasimman/srajasimman)
+1. 🚀 Published release [v1.0.0](https://github.com/srajasimman/terraform-aws-github-oidc-iam/releases/tag/v1.0.0) in [srajasimman/terraform-aws-github-oidc-iam](https://github.com/srajasimman/terraform-aws-github-oidc-iam)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
