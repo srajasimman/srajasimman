@@ -79,7 +79,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/srajasimman/fullstack-app-example/pull/1) in [srajasimman/fullstack-app-example](https://github.com/srajasimman/fullstack-app-example)
+1. ❌ Closed PR [#1](https://github.com/srajasimman/fullstack-app-example/pull/1) in [srajasimman/fullstack-app-example](https://github.com/srajasimman/fullstack-app-example)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
