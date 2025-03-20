@@ -78,7 +78,7 @@
 [![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](https://www.google.com/search?q=MySQL)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)](https://www.google.com/search?q=PostgreSQL)
 [![MongoDB](https://img.shields.io/badge/mongodb-%47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)](https://www.google.com/search?q=MongoDB)
-[![CassandraDB](https://img.shields.io/badge/apachecassandra-%1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white&color=1287B1)](https://www.google.com/search?q=CassandraDB)
+[![CassandraDB](https://img.shields.io/badge/cassandra-%1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white&color=1287B1)](https://www.google.com/search?q=CassandraDB)
 [![ElasticSearch](https://img.shields.io/badge/elasticsearch-%015571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white&color=015571)](https://www.google.com/search?q=ElasticSearch)
 [![Redis](https://img.shields.io/badge/redis-%FF4438.svg?style=for-the-badge&logo=redis&logoColor=white&color=FF4438)](https://www.google.com/search?q=Redis)
 [![Neo4j](https://img.shields.io/badge/neo4j-%4581C3.svg?style=for-the-badge&logo=neo4j&logoColor=white&color=4581C3)](https://www.google.com/search?q=Neo4j)
