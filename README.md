@@ -105,7 +105,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/srajasimman/rembg-webapp/releases/tag/v0.1.1) in [srajasimman/rembg-webapp](https://github.com/srajasimman/rembg-webapp)
+1. 🚀 Published release [v1.0.0](https://github.com/srajasimman/fullstack-app-example/releases/tag/v1.0.0) in [srajasimman/fullstack-app-example](https://github.com/srajasimman/fullstack-app-example)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
