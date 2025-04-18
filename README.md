@@ -105,7 +105,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/srajasimman/fullstack-app-example/releases/tag/v1.0.0) in [srajasimman/fullstack-app-example](https://github.com/srajasimman/fullstack-app-example)
+1. 🚀 Published release [v1.0.0](https://github.com/srajasimman/conventional-commit-validator/releases/tag/v1.0.0) in [srajasimman/conventional-commit-validator](https://github.com/srajasimman/conventional-commit-validator)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
