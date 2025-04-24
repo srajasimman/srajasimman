@@ -3,7 +3,7 @@
 </h1>
 <b><h2 align="center">👨🏽‍💻 An Enthusiastic IT Wizard from India 🇮🇳 </h2></b>
 
-## About Me 😎 | <a href="https://srajasimman.github.io/resume/">Resume</a>
+## [About Me](https://srajasimman.github.io/resume/about-me.html) 😎 | <a href="https://srajasimman.github.io/resume/">Resume</a>
 <p align="left" style="max-width:60%">
 
 - 👨‍💻 I am an open-source tech enthusiast, skilled and dedicated specialist with extensive knowledge and experience in cloud and DevOps.
