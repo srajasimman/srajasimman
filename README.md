@@ -86,7 +86,7 @@
 ### Hobby & DIY
 [![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)](https://www.google.com/search?q=Raspberry+Pi)
 [![Arduino](https://img.shields.io/badge/arduino-%01878F.svg?style=for-the-badge&logo=arduino&logoColor=white&color=01878F)](https://www.google.com/search?q=Arduino)
-[![Node-Red](https://img.shields.io/badge/nodered-%5FA04E.svg?style=for-the-badge&logo=nodered&logoColor=white&color=5FA04E)](https://www.google.com/search?q=Node-Red)
+[![Node-Red](https://img.shields.io/badge/nodered-%5FA04E.svg?style=for-the-badge&logo=nodered&logoColor=white&color=8f0000)](https://www.google.com/search?q=Node-Red)
 
 ## Connect With Me 🤝
 
