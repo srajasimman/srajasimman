@@ -105,7 +105,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2](https://github.com/srajasimman/time-to-review/releases/tag/v1.0.2) in [srajasimman/time-to-review](https://github.com/srajasimman/time-to-review)
+1. 🚀 Published release [v1.0.1](https://github.com/srajasimman/conventional-commit-validator/releases/tag/v1.0.1) in [srajasimman/conventional-commit-validator](https://github.com/srajasimman/conventional-commit-validator)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
