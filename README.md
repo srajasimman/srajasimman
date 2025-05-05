@@ -105,7 +105,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2](https://github.com/srajasimman/conventional-commit-validator/releases/tag/v1.0.2) in [srajasimman/conventional-commit-validator](https://github.com/srajasimman/conventional-commit-validator)
+1. 🚀 Published release [v0.1.0](https://github.com/srajasimman/mern-assessment-app/releases/tag/v0.1.0) in [srajasimman/mern-assessment-app](https://github.com/srajasimman/mern-assessment-app)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
