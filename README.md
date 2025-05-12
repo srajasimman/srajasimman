@@ -105,7 +105,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/srajasimman/azure-web-app-bicep/releases/tag/v0.1.0) in [srajasimman/azure-web-app-bicep](https://github.com/srajasimman/azure-web-app-bicep)
+1. 🎉 Merged PR [#3](https://github.com/srajasimman/jenkins-pipeline-generator/pull/3) in [srajasimman/jenkins-pipeline-generator](https://github.com/srajasimman/jenkins-pipeline-generator)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
