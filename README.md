@@ -105,7 +105,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/srajasimman/jenkins-pipeline-generator/pull/3) in [srajasimman/jenkins-pipeline-generator](https://github.com/srajasimman/jenkins-pipeline-generator)
+1. 🗣 Commented on [#1](https://github.com/srajasimman/github-actions/issues/1#issuecomment-2988219494) in [srajasimman/github-actions](https://github.com/srajasimman/github-actions)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
