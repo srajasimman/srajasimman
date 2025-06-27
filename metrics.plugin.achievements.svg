@@ -127,7 +127,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 138k out of 168m users</span>
+                                    <span class="gh">ranked 138k out of 169m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">127</div>
                                     </div>
@@ -184,7 +184,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="115.01 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.25 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -203,10 +203,10 @@
                                     <span class="prefix">Super</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">871</div>
+                                        <div class="value">875</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 871 repositories</div>
+                                <div class="text">Starred 875 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -364,7 +364,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 387k out of 168m users</span>
+                                    <span class="gh">ranked 388k out of 169m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">42</div>
                                     </div>
