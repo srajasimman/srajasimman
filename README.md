@@ -42,6 +42,17 @@
 [![Redhat](https://img.shields.io/badge/redhat-%EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white&color=EE0000)](https://www.google.com/search?q=Redhat)
 [![Alpine](https://img.shields.io/badge/alpinelinux-%0D597F.svg?style=for-the-badge&logo=alpinelinux&logoColor=white&color=0D597F)](https://www.google.com/search?q=Alpine)
 
+### Artificial Intelligence & Machine Learning
+[![OpenAI](https://img.shields.io/badge/openai-%181717.svg?style=for-the-badge&logo=openai&logoColor=white&color=181717)](https://www.google.com/search?q=OpenAI)
+[![Claude](https://img.shields.io/badge/claude-%181717.svg?style=for-the-badge&logo=anthropic&logoColor=white&color=D97757)](https://www.google.com/search?q=Claude)
+[![Gemini](https://img.shields.io/badge/gemini-%181717.svg?style=for-the-badge&logo=google&logoColor=white&color=4285F4)](https://www.google.com/search?q=Gemini)
+[![Ollama](https://img.shields.io/badge/ollama-%181717.svg?style=for-the-badge&logo=ollama&logoColor=white&color=181717)](https://www.google.com/search?q=Ollama)
+[![Llama 3](https://img.shields.io/badge/llama%203-%181717.svg?style=for-the-badge&logo=meta&logoColor=white&color=1877F2)](https://www.google.com/search?q=Llama%203)
+[![AWS Bedrock](https://img.shields.io/badge/aws%20bedrock-%181717.svg?style=for-the-badge&logo=amazon&logoColor=white&color=232F3E)](https://www.google.com/search?q=AWS%20Bedrock)
+[![Azure AI Foundry](https://img.shields.io/badge/azure%20ai%20foundry-%181717.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0078D4)](https://www.google.com/search?q=Azure%20AI%20Foundry)
+[![Google AI Studio](https://img.shields.io/badge/google%20ai%20studio-%181717.svg?style=for-the-badge&logo=google&logoColor=white&color=4285F4)](https://www.google.com/search?q=Google%20AI%20Studio)
+[![Hugging Face](https://img.shields.io/badge/huggingface-%F58026.svg?style=for-the-badge&logo=huggingface&logoColor=white&color=F58026)](https://www.google.com/search?q=Hugging+Face)
+
 ### DevOps & Automation
 [![GIT](https://img.shields.io/badge/git-%F05032.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://www.google.com/search?q=GIT)
 [![GitHub / GitHub Actions](https://img.shields.io/badge/github-%181717.svg?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://www.google.com/search?q=GitHub)
