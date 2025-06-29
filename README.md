@@ -116,7 +116,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/srajasimman/github-actions/issues/1#issuecomment-2988219494) in [srajasimman/github-actions](https://github.com/srajasimman/github-actions)
+1. 🎉 Merged PR [#1](https://github.com/srajasimman/mern-assessment-app/pull/1) in [srajasimman/mern-assessment-app](https://github.com/srajasimman/mern-assessment-app)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
