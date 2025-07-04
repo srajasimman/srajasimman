@@ -116,7 +116,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/srajasimman/mern-assessment-app/pull/1) in [srajasimman/mern-assessment-app](https://github.com/srajasimman/mern-assessment-app)
+1. ❗ Opened issue [#1441](https://github.com/lobehub/lobe-chat-agents/issues/1441) in [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
