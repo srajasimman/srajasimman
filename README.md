@@ -6,23 +6,25 @@
 ## [About Me](https://www.srajasimman.dev/about-me) 😎 | <a href="https://srajasimman.github.io/resume/">Resume</a>
 <p align="left" style="max-width:60%">
 
-- 👨‍💻 I am an open-source tech enthusiast, skilled and dedicated specialist with extensive knowledge and experience in cloud and DevOps.
+- 👋 I'm a DevOps enthusiast passionate about automation, cloud infrastructure, and building smooth CI/CD pipelines.
 
-- 📚 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- 👨‍💻 I’m a dedicated Cloud & DevOps specialist with deep expertise in AWS, Azure, GCP, Kubernetes, Terraform, Docker, and Linux. I enjoy designing scalable systems and streamlining deployment processes.
 
-- ✨ Like experimenting with new technologies, building small projects, and occasionally doing penetration testing.
+- 📚 A strong believer in open source — I’ve learned a lot from the community and love how collaboration and knowledge-sharing fuel innovation.
 
-- 🔭 I’m currently working as **DevOps/SRE and Cloud Solution Architect**
+- 🔭 Currently working as a DevOps/SRE and Cloud Solution Architect.
 
-- 👯 I’m looking to collaborate on **Kubernetes and CNCF projects**
+- 🛠️ Actively exploring and experimenting with AWS, Terraform, Docker, Jenkins, and GitHub Actions.
 
-- 🤔 I’m looking for help with **CDK and Crossplane**
+- 👯 Looking to collaborate on Kubernetes and CNCF ecosystem projects.
 
-- 💬 Ask me about **linux, aws, azure, gcp, bash, python, docker, kubernetes and terraform**
+- 🤝 Seeking help with CDK and Crossplane — always open to learning from real-world use cases.
 
-- 📫 How to reach me **[telegram](https://t.me/RSimman)** & **[twitter](https://twitter.com/rsimman)**
+- 💬 Ask me anything about Linux, Bash, Python, Kubernetes, Terraform, or cloud infra in general.
 
-- 🔈 Fun fact **I might seem lazy, but my brain always works around the clock. :wink:**
+- 📫 Reach me on [Telegram](https://t.me/RSimman) or [X](https://x.com/RSimman).
+
+- 🔍 Fun fact: I might seem chill on the outside, but my brain is always debugging something. 😉
 
 </p>
 
