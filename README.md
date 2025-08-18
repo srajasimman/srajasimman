@@ -3,7 +3,7 @@
 </h1>
 <b><h2 align="center">👨🏽‍💻 An Enthusiastic IT Wizard from India 🇮🇳 </h2></b>
 
-## [About Me](https://www.srajasimman.dev/about-me) 😎 | <a href="https://srajasimman.github.io/resume/">Resume</a>
+## [About Me](https://www.srajasimman.dev/about-me) 😎 | <a href="https://www.srajasimman.dev/resume">Resume</a>
 <p align="left" style="max-width:60%">
 
 - 👋 I'm a DevOps enthusiast passionate about automation, cloud infrastructure, and building smooth CI/CD pipelines.
