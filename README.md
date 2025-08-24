@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1441](https://github.com/lobehub/lobe-chat-agents/issues/1441) in [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents)
+1. 🚀 Published release [v0.2.0](https://github.com/srajasimman/mern-assessment-app/releases/tag/v0.2.0) in [srajasimman/mern-assessment-app](https://github.com/srajasimman/mern-assessment-app)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
