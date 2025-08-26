@@ -14,11 +14,11 @@
 
 - 🔭 Currently working as a DevOps/SRE and Cloud Solution Architect.
 
-- 🛠️ Actively exploring and experimenting with AWS, Terraform, Docker, Jenkins, and GitHub Actions.
+- 🛠️ Actively exploring and experimenting with AWS CDK, Terraform, Docker, Jenkins, and GitHub Actions.
 
 - 👯 Looking to collaborate on Kubernetes and CNCF ecosystem projects.
 
-- 🤝 Seeking help with CDK and Crossplane — always open to learning from real-world use cases.
+- 🤝 Seeking help with Rust and Crossplane — always open to learning from real-world use cases.
 
 - 💬 Ask me anything about Linux, Bash, Python, Kubernetes, Terraform, or cloud infra in general.
 
