@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/srajasimman/aws-cdk-sftp-to-s3-sync/pull/1) in [srajasimman/aws-cdk-sftp-to-s3-sync](https://github.com/srajasimman/aws-cdk-sftp-to-s3-sync)
+1. 🚀 Published release [v0.2.0](https://github.com/srajasimman/mern-assessment-app/releases/tag/v0.2.0) in [srajasimman/mern-assessment-app](https://github.com/srajasimman/mern-assessment-app)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
