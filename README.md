@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/srajasimman/mern-assessment-app/releases/tag/v0.2.0) in [srajasimman/mern-assessment-app](https://github.com/srajasimman/mern-assessment-app)
+1. ❌ Closed PR [#1](https://github.com/devops-code-test/sample-projects/pull/1) in [devops-code-test/sample-projects](https://github.com/devops-code-test/sample-projects)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
