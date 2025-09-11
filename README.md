@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/devops-code-test/sample-projects/pull/1) in [devops-code-test/sample-projects](https://github.com/devops-code-test/sample-projects)
+1. 🚀 Published release [v1.0.3](https://github.com/srajasimman/conventional-commit-validator/releases/tag/v1.0.3) in [srajasimman/conventional-commit-validator](https://github.com/srajasimman/conventional-commit-validator)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
