@@ -1,6 +1,6 @@
 name: Activity Update
 on:
-  schedule: [{cron: "0 0 * * *"}] # Daily at midnight UTC
+  schedule: [{cron: "0 */12 * * *"}] # Every 12 hours
   workflow_dispatch:
 
 permissions:
