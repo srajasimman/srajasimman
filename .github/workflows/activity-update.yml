@@ -1,0 +1,17 @@
+name: Activity Update
+on:
+  schedule: [{cron: "0 0 * * *"}] # Daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: jamesgeorge007/github-activity-readme@v0.4.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
