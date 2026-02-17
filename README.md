@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/srajasimman/terraform-aws-openclaw/releases/tag/v1.0.1) in [srajasimman/terraform-aws-openclaw](https://github.com/srajasimman/terraform-aws-openclaw)
+1. 💪 Opened PR [#765](undefined) in [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
