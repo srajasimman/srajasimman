@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/senthazalravi/TestFox/issues/5) in [senthazalravi/TestFox](https://github.com/senthazalravi/TestFox)
+1. ❌ Merged PR [#1](undefined) in [srajasimman/LexGrid](https://github.com/srajasimman/LexGrid)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
