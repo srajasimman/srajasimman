@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [srajasimman/LexGrid](https://github.com/srajasimman/LexGrid)
+1. ❌ Merged PR [#3](undefined) in [srajasimman/LexGrid](https://github.com/srajasimman/LexGrid)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
