@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/srajasimman/conventional-commit-validator/releases/tag/v2.0.0) in [srajasimman/conventional-commit-validator](https://github.com/srajasimman/conventional-commit-validator)
+1. ❌ Merged PR [#2](undefined) in [srajasimman/LexGrid](https://github.com/srajasimman/LexGrid)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
