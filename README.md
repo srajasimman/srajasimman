@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/srajasimman/LexGrid/releases/tag/v1.0.0) in [srajasimman/LexGrid](https://github.com/srajasimman/LexGrid)
+1. 🚀 Published release [v2.0.2](https://github.com/srajasimman/conventional-commit-validator/releases/tag/v2.0.2) in [srajasimman/conventional-commit-validator](https://github.com/srajasimman/conventional-commit-validator)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
