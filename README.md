@@ -118,7 +118,7 @@
 
 ## 📝Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.2](https://github.com/srajasimman/conventional-commit-validator/releases/tag/v2.0.2) in [srajasimman/conventional-commit-validator](https://github.com/srajasimman/conventional-commit-validator)
+1. 💪 Opened PR [#32377](undefined) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 <h2 align="left">⚡Activity Graph</h2>
